@@ -1,7 +1,7 @@
 # Credit-Card-Fraud-Detection
 ## Background
 
-Fraud is everywhere these days—whether you are a small taco shop or a large international business. While there are emerging technologies that employ machine learning and artificial intelligence to detect fraud, many instances of fraud detection still require strong data analytics to find abnormal charges.
+Fraud is everywhere these days—whether you are a small shop or a large international business. While there are emerging technologies that employ machine learning and artificial intelligence to detect fraud, many instances of fraud detection still require strong data analytics to find abnormal charges.
 
 Application of SQL and Python skills to analyze historical credit card transactions and consumption patterns in order to identify possible fraudulent transactions.
 
